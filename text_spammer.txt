@@ -1,5 +1,28 @@
-i = []
-i.append('item')
-print(repr(i))
-print(eval(repr(i)))
-print(eval(repr(i)) == i)
+We wish you a Merry Christmas;
+We wish you a Merry Christmas;
+We wish you a Merry Christmas and a Happy New Year.
+
+Good tidings to you wherever you are.
+Good tidings for Christmas and a Happy New Year!
+
+Please, bring us a figgy pudding;
+Please, bring us a figgy pudding;
+Please, bring us a figgy pudding and a cup of good cheer.
+
+Good tidings to you wherever you are.
+Good tidings for Christmas and a Happy New Year!
+
+We won't go until we get some;
+We won't go until we get some;
+We won't go until we get some, so bring some out here.
+
+We wish you a Merry Christmas;
+We wish you a Merry Christmas;
+We wish you a Merry Christmas and a Happy New Year.
+
+From me and my little brother,
+From father and from my mother,
+And uncle and all my cousins
+And all of us here!
+Good tidings to you wherever you are.
+Good tidings for Christmas and a Happy New Year!
