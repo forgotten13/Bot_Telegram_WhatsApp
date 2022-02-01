@@ -7,7 +7,7 @@ for line in f:
     if not keyboard.is_pressed('space'):
         pyautogui.typewrite(line)
         time.sleep(0.5)
-        # pyautogui.press('enter')
+        pyautogui.press('enter')
     else:
         break
 
